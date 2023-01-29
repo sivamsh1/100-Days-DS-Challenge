@@ -32,7 +32,7 @@ console.log(twoSum(A,target));
 
 
 
-// 2) Create linked list append ,print,reverse 
+// 2) Create linked list append ,print
 
 
 class Node{
