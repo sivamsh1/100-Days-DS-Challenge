@@ -1,5 +1,5 @@
 // 1- Task is to store a decimal's bynary into linked list
-// 2 convert bynary linked list into decima; 
+// 2 convert bynary linked list into decimal; 
 
 
 
