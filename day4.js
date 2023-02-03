@@ -182,7 +182,7 @@ console.log(largest);
 }
 
 
-let list = new linkedList;
+let lis = new linkedList;
 
 
 list.append(1);
